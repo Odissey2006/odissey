@@ -1,1 +1,2 @@
 # odissey
+pip установить pyTelegramBotAPI
